@@ -16,6 +16,7 @@ HTML:
     <nav>
         <a href="#about">About Me</a>
         <a href="#why">Why Web Development</a>
+        <a href="#portfolio">Portfolio</a>
         <a href="#contact">Contact</a>
     </nav>
 
@@ -28,6 +29,18 @@ HTML:
         <h2>Why Web Development?</h2>
         <p>I chose web development because it’s fun and aligns perfectly with my personality. It combines creativity with problem-solving, making every day an exciting challenge!</p>
         <p>My goal in this field is to create meaningful, user-friendly websites and applications that make a positive impact. I’m eager to keep learning and growing!</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Check out my GitHub repositories to see what I've learned so far:</p>
+        <ul>
+            <li><a href="https://github.com/Noaprofession/codewars_kata">Codewars Kata Solutions</a> - A collection of solutions to codewars kata challenges, showcasing problem-solving skills and JavaScript proficiency.</li>
+        </ul>
+        <p>You can also find the code for this website here:</p>
+        <ul>
+            <li><a href="https://github.com/Noaprofession/Website">Showcase Website Repository</a> - The source code for this personal showcase website.</li>
+        </ul>
     </section>
 
     <section id="contact">
@@ -46,6 +59,7 @@ HTML:
     <script src="script.js"></script>
 </body>
 </html>
+
 
 
 
